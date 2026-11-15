@@ -1,0 +1,10 @@
+pandas
+numpy
+pyproj
+osmium
+requests
+matplotlib
+seaborn
+geopandas
+shapely
+jupyter

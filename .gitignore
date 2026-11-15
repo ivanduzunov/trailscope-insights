@@ -1,0 +1,17 @@
+# Datasets
+data/raw/
+data/processed/
+
+# OSM files
+*.osm.pbf
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
